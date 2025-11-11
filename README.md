@@ -10,4 +10,4 @@ The Blue Billywig Online Video Platform (OVP) can be integrated with an external
 
 Review the instructions for setting up an SSO connection for any one of the following Identity Providers:
 
-* Integrating with [Okta](docs/okta/README.md).
+* Integrating with [Okta](Okta.md).
