@@ -120,7 +120,7 @@ Blue Billywig SSO to Okta.
   |:-----------------------------------|:----------------|:-------------------|
   | `urn:oid:1.3.6.1.4.1.5923.1.1.1.1` | `URI Reference` | *Filter of choice* |
 
-> [#NOTE]
+> [!NOTE]
 > 
 > You can filter the groups that are exposed here. A filter is required. Setting the filter type to `Matches regex`
 > and the filter value to `.*` will expose all groups the user is member of.
@@ -156,7 +156,7 @@ The new application has now been created in Okta.
 
 * Scroll down to the **Attribute statements** section.
 
-> [#CAUTION]
+> [!CAUTION]
 >
 > The attribute statements can only be configured here when the **Unified claims generation for Okta-protected SAML
 > and OIDC custom app integrations** feature is enabled in **Settings** -> **Features**.
@@ -195,7 +195,7 @@ To finalize the SSO integration, communicate the following information to your B
 * The SAML 2.0 metadata URL (see [the section above](#sign-on-settings) to get this URL).
 * The IDs of the groups that will be exposed.
 
-> [#NOTE]
+> [!NOTE]
 > 
 > When Okto is only used for authentication, but authorization is done from within Blue Billywig OVP, there is no
 > need to give the group IDs.
