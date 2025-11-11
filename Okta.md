@@ -40,13 +40,13 @@ Blue Billywig SSO to Okta.
 * Enter **Single sign-on URL**: `https://auth.bluebillywig.com/saml2/idpresponse`
 * Enter **Audience URI (SP Entity ID)**: `urn:amazon:cognito:sp:eu-west-1_2Gn0U5Y6I`
 
-  > [!NOTE]
-  > The above **Single sign-on URL** and **Audience URI (SP Entity ID)** are for connecting to the Blue Billywig 
-  > production environment. When you need to connect to the Blue Billywig test environment, use the following settings
-  > instead:
-  > 
-  > * **Single sign-on URL**: `https://test.auth.bluebillywig.com/saml2/idresponse`
-  > * **Audience URI (SP Entity ID)**: `urn:amazon:cognito:sp:eu-west-1_nPGHGV8P3`
+> [!NOTE]
+> The above **Single sign-on URL** and **Audience URI (SP Entity ID)** are for connecting to the Blue Billywig 
+> production environment. When you need to connect to the Blue Billywig test environment, use the following settings
+> instead:
+> 
+> * **Single sign-on URL**: `https://test.auth.bluebillywig.com/saml2/idresponse`
+> * **Audience URI (SP Entity ID)**: `urn:amazon:cognito:sp:eu-west-1_nPGHGV8P3`
 
 * Leave **Default RelayState** empty.
 * Set **Name ID format** to `EmailAddress`.
