@@ -108,8 +108,8 @@ Contact your Blue Billywig account manager with:
 Your IdP will need to trust Blue Billywig's SSL certificates for secure communication. The certificates are available
 in this repository:
 
-- **Production**: `crt/auth.bluebillywig.com.crt`
-- **Test Environment**: `crt/test.auth.bluebillywig.com.crt`
+- **Production**: [auth.bluebillywig.com.crt](crt/auth.bluebillywig.com.crt).
+- **Test Environment**: [test.auth.bluebillywig.com.crt](crt/test.auth.bluebillywig.com.crt).
 
 ## Testing and Validation
 
