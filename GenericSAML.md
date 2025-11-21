@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/logo_grey.png">
+  <source media="(prefers-color-scheme: light)" srcset="img/logo_blue.png">
+  <img alt="Blue Billywig logo" src="img/logo_blue.png">
+</picture>
+
+
 # Generic SAML Setup Guide
 
 This guide provides instructions for setting up Single Sign-On (SSO) with Blue Billywig Online Video Platform using SAML
