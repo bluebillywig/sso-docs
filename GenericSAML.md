@@ -29,7 +29,7 @@ Configure your Identity Provider with the following Blue Billywig service provid
 ### Basic SAML Configuration
 
 1. **SAML Version**: 2.0
-2. **Binding**: HTTP-POST for SSO and SLO
+2. **Binding**: `HTTP-POST` for SSO and SLO
 3. **NameID Format**: Persistent
 
 > [!NOTE]
