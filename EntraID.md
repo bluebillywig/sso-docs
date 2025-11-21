@@ -57,7 +57,7 @@ SAML has now been selected as the single sign-on method.
 * Enter **Reply URL (Assertion Consumer Service URL)**: `https://auth.bluebillywig.com/saml2/idpresponse`
 * Leave **Sign on URL** empty.
 * Leave **Relay State (Optional)** empty.
-* Enter **Logout Url (Optional)**: `https://auth.bluebillywig.com/saml2/logout`
+* Enter **Logout Url (Optional)**: `https://bbvms.com/saml2/logout`
 
 > [!NOTE]
 > The above **Identifier (Entity ID)**, **Reply URL**, and **Logout Url** are for connecting to the Blue Billywig 
@@ -66,7 +66,7 @@ SAML has now been selected as the single sign-on method.
 > 
 > * **Identifier (Entity ID)**: `urn:amazon:cognito:sp:eu-west-1_nPGHGV8P3`
 > * **Reply URL (Assertion Consumer Service URL)**: `https://test.auth.bluebillywig.com/saml2/idresponse`
-> * **Logout Url (Optional)**: `https://test.auth.bluebillywig.com/saml2/logout`
+> * **Logout Url (Optional)**: `https://test.bbvms.com/saml2/logout`
 
 ![Create app SSO SAML basic](img/entraid/create-app-sso-saml-basic.png)
 
