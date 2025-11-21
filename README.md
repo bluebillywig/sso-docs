@@ -12,3 +12,4 @@ Review the instructions for setting up an SSO connection for any one of the foll
 
 * Integrating with [Okta](Okta.md).
 * Integrating with [Microsoft Entra ID](EntraID.md).
+* Integrating with [a generic SAML enabled Identity Provider](GenericSAML.md).
