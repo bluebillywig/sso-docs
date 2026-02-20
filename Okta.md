@@ -45,7 +45,7 @@ Blue Billywig SSO to Okta.
 > production environment. When you need to connect to the Blue Billywig test environment, use the following settings
 > instead:
 > 
-> * **Single sign-on URL**: `https://test.auth.bluebillywig.com/saml2/idresponse`
+> * **Single sign-on URL**: `https://test.auth.bluebillywig.com/saml2/idpresponse`
 > * **Audience URI (SP Entity ID)**: `urn:amazon:cognito:sp:eu-west-1_nPGHGV8P3`
 
 * Leave **Default RelayState** empty.
